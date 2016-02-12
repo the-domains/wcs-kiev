@@ -1,7 +1,7 @@
 name: wcs.kiev
 favicon: null
-layout_spectrum: 0.3986899214796722
-typography_spectrum: 0.2286702108103782
+layout_spectrum: 0.52026
+typography_spectrum: 0.25728
 title: Танцы West Coast Swing в Киеве
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5654276562854648
+    - '#dec1dc'
+    - '#210423'
+    - '#5f325f'
+    - '#975b96'
+    - '#b18cb2'
+  brandStrength: 0.5625
   lightness: 0.8816199721768498
   saturation: 0.7633761770557612
   rhythmicContrast: 0.24550452665425837

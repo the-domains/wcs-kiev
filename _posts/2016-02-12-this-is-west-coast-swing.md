@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/142900105'
+inLanguage: fr
+starred: false
+keywords: []
+description: "This video shows what West Coast Swing is. Not for commercial use. Only to promote West Coast Swing. Cette vidéo montre ce qu'est le West Coast Swing. Filmé à Nantes et dans les environs. Pas d'usage commercial, uniquement pour promouvoir le West Coast Swing. \"Fire\" Gavin DeGraw"
+datePublished: '2016-03-01T21:26:51.836Z'
+dateModified: '2016-03-01T21:26:30.764Z'
 author:
   - name: Maxence
     url: 'http://vimeo.com/user26980361'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "This video shows what West Coast Swing is. Not for commercial use. Only to promote West Coast Swing. Cette vidéo montre ce qu'est le West Coast Swing. Filmé à Nantes et dans les environs. Pas d'usage commercial, uniquement pour promouvoir le West Coast Swing. \"Fire\" Gavin DeGraw"
-inLanguage: fr
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/142900105'
     type: ios
@@ -22,15 +24,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/142900105'
 title: This is West Coast Swing
-datePublished: '2016-02-12T14:24:20.410Z'
-dateModified: '2016-02-12T14:18:19.865Z'
 sourcePath: _posts/2016-02-12-this-is-west-coast-swing.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

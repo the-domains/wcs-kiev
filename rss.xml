@@ -4,8 +4,15 @@
         <description><![CDATA[Танцы West Coast Swing в Киеве]]></description>
         <link>https://thegrid.ai/wcs-kiev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 00:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 00:00:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wcs-kiev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is West Coast Swing]]></title>
+            <description><![CDATA[<article><h1>This is West Coast Swing</h1><p>Видео о том, что такое Вест Кост Свинг</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/797651e19601b857d5c4e404e207ba1a7674e64a.jpg"></article>]]></description>
+            <link>https://vimeo.com/142900105</link>
+            <guid isPermaLink="false">46e1e0fa-8640-48d3-bbb3-fe13cb024deb</guid>
+            <pubDate>Wed, 02 Mar 2016 00:00:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faa87a1395a43cfc6b5a0d3b5209d7c86bd5c3dc.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.facebook.com/photo.php?fbid=10209246689984134&amp;set=gm.1561137854203698&amp;type=3&amp;theater</link>
             <guid isPermaLink="false">1c86a065-9e4a-41bf-abcf-3822a589a649</guid>
             <pubDate>Tue, 01 Mar 2016 23:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is West Coast Swing]]></title>
-            <description><![CDATA[<article><h1>This is West Coast Swing</h1><p>This video shows what West Coast Swing is</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/797651e19601b857d5c4e404e207ba1a7674e64a.jpg"></article>]]></description>
-            <link>https://vimeo.com/142900105</link>
-            <guid isPermaLink="false">46e1e0fa-8640-48d3-bbb3-fe13cb024deb</guid>
-            <pubDate>Tue, 01 Mar 2016 21:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

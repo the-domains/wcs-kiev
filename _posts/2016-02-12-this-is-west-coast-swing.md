@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/142900105'
 inLanguage: fr
-starred: false
+starred: true
 keywords: []
 description: "This video shows what West Coast Swing is. Not for commercial use. Only to promote West Coast Swing. Cette vidéo montre ce qu'est le West Coast Swing. Filmé à Nantes et dans les environs. Pas d'usage commercial, uniquement pour promouvoir le West Coast Swing. \"Fire\" Gavin DeGraw"
-datePublished: '2016-03-01T21:26:51.836Z'
-dateModified: '2016-03-01T21:26:30.764Z'
+datePublished: '2016-03-02T00:00:07.895Z'
+dateModified: '2016-03-01T23:54:44.952Z'
 author:
   - name: Maxence
     url: 'http://vimeo.com/user26980361'

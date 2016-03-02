@@ -17,8 +17,8 @@ keywords:
   - csc
   - '2014'
 description: 'Украина, г.Киев, танцы West Coast Swing преподаватель Харланова Наталья, тел. 067-739-57-21'
-datePublished: '2016-03-02T00:33:15.087Z'
-dateModified: '2016-03-02T00:32:58.353Z'
+datePublished: '2016-03-02T00:43:08.646Z'
+dateModified: '2016-03-02T00:35:40.077Z'
 author:
   - name: Nataliya Kharlanova
     url: 'https://www.youtube.com/channel/UCs80sj7mR1TEepwrL6wY8Yw'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Социальные танцы West Coast Swing!!!'
+sourcePath: _posts/2016-03-02-socialnye-tancy-west-coast-swing.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-02-socialnye-tancy-west-coast-swing.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
